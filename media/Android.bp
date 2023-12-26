@@ -195,6 +195,7 @@ cc_defaults {
             ],
         },
     },
+    whole_program_vtables: true,
 }
 
 aidl_interface_defaults {
